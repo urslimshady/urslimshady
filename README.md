@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**urslimshady/urslimshady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
 I am DevOps engineer with novice skills.<br>I am currently learning Python's Flask and Django.<br>I want to pave my career in cybersecurity.<br>I love Linux.
 
 
