@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-`I am DevOps a engineer with novice skills.`<br>`I am currently learning Python's Flask and Django.`<br>`I want to pave my career in cybersecurity.`<br>`I love Linux.`<br>[portfolio](https://rohit.rocks.ninja)
+`I like twerking with cloud`<br>`I am currently brainmaxxing on terraform and ansible.`<br>`Nah I'd win`<br>`I love Linux.`<br>
 
 
 ## 🌐 Socials:
