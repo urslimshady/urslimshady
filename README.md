@@ -38,11 +38,13 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=urslimshady&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📈 Contribution Activity
+### 🏆 GitHub Achievements
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urslimshady&theme=react-dark&hide_border=true)](https://github.com/urslimshady)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=urslimshady&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/urslimshady)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=urslimshady&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=urslimshady&label=Profile%20Views&color=blueviolet&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
