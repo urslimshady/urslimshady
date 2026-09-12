@@ -38,10 +38,9 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=urslimshady&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 📈 Contribution Activity
 
-<img src="https://randommeme-five.vercel.app/" style="height: 400px;"/>
-
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urslimshady&theme=react-dark&hide_border=true)](https://github.com/urslimshady)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=urslimshady&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
